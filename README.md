@@ -57,7 +57,7 @@ ssh root@<droplet_ip>
 ```
 
 Here's a screenshot example:
-![Droplet](./Screenshots/ssh_droplet.png)
+![Droplet](./Screenshots/ssh_internal.png)
 
 #### Connecting to the database cluster
 
