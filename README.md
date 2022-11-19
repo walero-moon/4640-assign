@@ -65,6 +65,8 @@ I am going to use MongoDB Compass to connect to the database. If you didn't conf
 
 You can grab the database connection string on DigitalOcean's website, on the database cluster page.
 
+The password can be found on the file `terraform.tfstate`.
+
 ![Database Connection String](./Screenshots/mongo_string.png)
 ![Database Connected](./Screenshots/mongo_connection.png)
 
